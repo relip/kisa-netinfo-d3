@@ -1,0 +1,3184 @@
+{
+  "list": {
+    "isp": [
+      {
+        "-from": "SEJONGNET",
+        "-han": "세종텔레콤",
+        "-as": "AS9848",
+        "lineto": [
+          {
+            "-to": "KOREN",
+            "-color": "1000",
+            "-len": "1,000*2M"
+          },
+          {
+            "-to": "SHINBIRO",
+            "-color": "155",
+            "-len": "155*4M"
+          },
+          {
+            "-to": "ORG263102",
+            "-color": "2500",
+            "-len": "2,500M"
+          },
+          {
+            "-to": "DREAMX",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "KREONet",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "KINX",
+            "-color": "1000",
+            "-len": "1,000*4M"
+          },
+          {
+            "-to": "KTIX",
+            "-color": "10000",
+            "-len": "10,000*8M"
+          },
+          {
+            "-to": "broadNnet",
+            "-color": "10000",
+            "-len": "10,000*3M"
+          },
+          {
+            "-to": "DITIZONE",
+            "-color": "1000",
+            "-len": "1,000*5M"
+          },
+          {
+            "-to": "TELEHOUSE SEOUL",
+            "-color": "10000",
+            "-len": "10,000M"
+          },
+          {
+            "-to": "CJ-HELLOVISION",
+            "-color": "10000",
+            "-len": "10,000*2M"
+          },
+          {
+            "-to": "QRIXNET",
+            "-color": "10000",
+            "-len": "10,000*2M"
+          },
+          {
+            "-to": "ORG130458",
+            "-color": "10000",
+            "-len": "10,000M"
+          }
+        ]
+      },
+      {
+        "-from": "KIDC",
+        "-han": "KIDC",
+        "-as": "AS10059",
+        "lineto": [
+          {
+            "-to": "DIX",
+            "-color": "150000",
+            "-len": "150,000M"
+          },
+          {
+            "-to": "DIX",
+            "-color": "25000",
+            "-len": "25,000M"
+          },
+          {
+            "-to": "INET",
+            "-color": "2500",
+            "-len": "2,500M"
+          }
+        ]
+      },
+      {
+        "-from": "SK-NET",
+        "-han": "에스케이씨앤씨",
+        "-as": "AS10049",
+        "lineto": [
+          {
+            "-to": "KTIX",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "HIX",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "DIX",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "SKB-IX",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "DIX",
+            "-color": "155",
+            "-len": "155M"
+          }
+        ]
+      },
+      {
+        "-from": "KPIN",
+        "-han": "아이네트테크놀로지스",
+        "-as": "AS9712",
+        "lineto": [
+          {
+            "-to": "KORNET",
+            "-color": "100",
+            "-len": "100M"
+          },
+          {
+            "-to": "INET",
+            "-color": "2",
+            "-len": "2M"
+          },
+          {
+            "-to": "DREAMX",
+            "-color": "100",
+            "-len": "100M"
+          }
+        ]
+      },
+      {
+        "-from": "SEODAEGUCLEANNET",
+        "-han": "CATV서대구방송",
+        "-as": "AS38115",
+        "lineto": [
+          {
+            "-to": "SEJONGNET",
+            "-color": "1000",
+            "-len": "1,000*2M"
+          },
+          {
+            "-to": "SHINBIRO",
+            "-color": "1000",
+            "-len": "1,000*2M"
+          }
+        ]
+      },
+      {
+        "-from": "CMBKWANGJUNET",
+        "-han": "씨엠비광주방송",
+        "-as": "AS38679",
+        "lineto": [
+          {
+            "-to": "ORG263102",
+            "-color": "155",
+            "-len": "155M"
+          },
+          {
+            "-to": "broadNnet",
+            "-color": "155",
+            "-len": "155M"
+          }
+        ]
+      },
+      {
+        "-from": "CMBMUTINET",
+        "-han": "CATV충청방송",
+        "-as": "AS38133",
+        "lineto": [
+          {
+            "-to": "BORANET",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "SEJONGNET",
+            "-color": "1000",
+            "-len": "1,000M"
+          }
+        ]
+      },
+      {
+        "-from": "CMBDONGBU",
+        "-han": "CMB대구동부방송",
+        "-as": "AS18033",
+        "lineto": [
+          {
+            "-to": "SKB-IX",
+            "-color": "1000",
+            "-len": "1,000*2M"
+          },
+          {
+            "-to": "CMBSUSUNG",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "SK-TELECOM-NET",
+            "-color": "1000",
+            "-len": "1,000*2M"
+          }
+        ]
+      },
+      {
+        "-from": "SINC",
+        "-han": "신세계아이앤씨",
+        "-as": "AS9530",
+        "lineto": [
+          {
+            "-to": "BORANET",
+            "-color": "1000",
+            "-len": "1,000*2M"
+          },
+          {
+            "-to": "broadNnet",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "KORNET",
+            "-color": "1000",
+            "-len": "1,000M"
+          }
+        ]
+      },
+      {
+        "-from": "QRIXINTERNET",
+        "-han": "티브로드대구방송",
+        "-as": "AS17573",
+        "lineto": [
+          {
+            "-to": "TBROADNAKDONG",
+            "-color": "10000",
+            "-len": "10,000*2M"
+          },
+          {
+            "-to": "TBROAD",
+            "-color": "10000",
+            "-len": "10,000*2M"
+          }
+        ]
+      },
+      {
+        "-from": "RayNet",
+        "-han": "지오레이넷",
+        "-as": "AS9853",
+        "lineto": [
+          {
+            "-to": "KORNET",
+            "-color": "45",
+            "-len": "45M"
+          },
+          {
+            "-to": "SKB-IX",
+            "-color": "200",
+            "-len": "200M"
+          }
+        ]
+      },
+      {
+        "-from": "JIGUNET",
+        "-han": "아이오시스템",
+        "-as": "AS9977",
+        "lineto": [
+          {
+            "-to": "SEJONGNET",
+            "-color": "100",
+            "-len": "100M"
+          },
+          {
+            "-to": "ORG263102",
+            "-color": "100",
+            "-len": "100M"
+          }
+        ]
+      },
+      {
+        "-from": "CMBSUSUNG",
+        "-han": "CMB대구수성방송",
+        "-as": "AS18168",
+        "lineto": [
+          {
+            "-to": "ORG263102",
+            "-color": "45",
+            "-len": "45M"
+          },
+          {
+            "-to": "CMBDONGBU",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "SEJONGNET",
+            "-color": "1000",
+            "-len": "1,000*4M"
+          }
+        ]
+      },
+      {
+        "-from": "Xpeed",
+        "-han": "Xpeed",
+        "-as": "AS17858",
+        "lineto": [
+          {
+            "-to": "BORANET",
+            "-color": "1000",
+            "-len": "1,000*12M"
+          },
+          {
+            "-to": "DREAMX",
+            "-color": "2500",
+            "-len": "2,500M"
+          }
+        ]
+      },
+      {
+        "-from": "DICN",
+        "-han": "동남네트웍스",
+        "-as": "AS38090",
+        "lineto": [
+          {
+            "-to": "DREAMX",
+            "-color": "200",
+            "-len": "200M"
+          },
+          {
+            "-to": "ORG263102",
+            "-color": "200",
+            "-len": "200M"
+          }
+        ]
+      },
+      {
+        "-from": "HYOSUNGCDN",
+        "-han": "효성ITX",
+        "-as": "AS38690",
+        "lineto": [
+          {
+            "-to": "SEJONGNET",
+            "-color": "10000",
+            "-len": "10,000M"
+          },
+          {
+            "-to": "HCLC",
+            "-color": "10000",
+            "-len": "10,000M"
+          },
+          {
+            "-to": "SKB-IX",
+            "-color": "10000",
+            "-len": "10,000M"
+          },
+          {
+            "-to": "KINX",
+            "-color": "10000",
+            "-len": "10,000M"
+          }
+        ]
+      },
+      {
+        "-from": "UPASS",
+        "-han": "CATV호남방송",
+        "-as": "AS38121",
+        "lineto": [
+          {
+            "-to": "DIX",
+            "-color": "155",
+            "-len": "155M"
+          },
+          {
+            "-to": "DREAMX",
+            "-color": "1000",
+            "-len": "1,000*2M"
+          }
+        ]
+      },
+      {
+        "-from": "KITINET",
+        "-han": "케이티네트웍스",
+        "-as": "AS9695",
+        "lineto": {
+          "-to": "KTIX",
+          "-color": "1000",
+          "-len": "1,000*2M"
+        }
+      },
+      {
+        "-from": "HCLC",
+        "-han": "미래와사람",
+        "-as": "AS38661",
+        "lineto": [
+          {
+            "-to": "KTIX",
+            "-color": "20000",
+            "-len": "20,000M"
+          },
+          {
+            "-to": "SKB-IX",
+            "-color": "10000",
+            "-len": "10,000*5M"
+          },
+          {
+            "-to": "CYBERONEIDC",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "DIX",
+            "-color": "20000",
+            "-len": "20,000*6M"
+          },
+          {
+            "-to": "DREAMX",
+            "-color": "10000",
+            "-len": "10,000*4M"
+          },
+          {
+            "-to": "KINXINC",
+            "-color": "10000",
+            "-len": "10,000M"
+          }
+        ]
+      },
+      {
+        "-from": "DIRECT-HOSTING",
+        "-han": "삼정데이타서비스",
+        "-as": "AS46010",
+        "lineto": {
+          "-to": "DIX",
+          "-color": "1000",
+          "-len": "1,000M"
+        }
+      },
+      {
+        "-from": "KOINS",
+        "-han": "코스콤",
+        "-as": "AS9526",
+        "lineto": [
+          {
+            "-to": "KINX",
+            "-color": "2000",
+            "-len": "2,000M"
+          },
+          {
+            "-to": "KTIX",
+            "-color": "2000",
+            "-len": "2,000*2M"
+          },
+          {
+            "-to": "DIX",
+            "-color": "2000",
+            "-len": "2,000*2M"
+          },
+          {
+            "-to": "SKB-IX",
+            "-color": "2000",
+            "-len": "2,000M"
+          }
+        ]
+      },
+      {
+        "-from": "ULNETWORKS",
+        "-han": "유엘네트웍스",
+        "-as": "AS45372",
+        "lineto": [
+          {
+            "-to": "KORNET",
+            "-color": "200",
+            "-len": "200M"
+          },
+          {
+            "-to": "CHUNGBUVITSSEN",
+            "-color": "1000",
+            "-len": "1,000M"
+          }
+        ]
+      },
+      {
+        "-from": "OK-NET",
+        "-han": "오케이엔이티",
+        "-as": "AS17850",
+        "lineto": [
+          {
+            "-to": "ORG263102",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "broadNnet",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "SKB-IX",
+            "-color": "155",
+            "-len": "155M"
+          }
+        ]
+      },
+      {
+        "-from": "PUBNET",
+        "-han": "퍼브넷",
+        "-as": "AS9768",
+        "lineto": [
+          {
+            "-to": "DIX",
+            "-color": "2000",
+            "-len": "2,000*4M"
+          },
+          {
+            "-to": "KTIX",
+            "-color": "2000",
+            "-len": "2,000*6M"
+          },
+          {
+            "-to": "KOREN",
+            "-color": "155",
+            "-len": "155M"
+          }
+        ]
+      },
+      {
+        "-from": "INET",
+        "-han": "아이네트호스팅",
+        "-as": "AS17881",
+        "lineto": [
+          {
+            "-to": "KPIN",
+            "-color": "2",
+            "-len": "2M"
+          },
+          {
+            "-to": "KIDC",
+            "-color": "10000",
+            "-len": "10,000*4M"
+          }
+        ]
+      },
+      {
+        "-from": "TBROAD",
+        "-han": "티브로드 수원방송",
+        "-as": "AS23563",
+        "lineto": [
+          {
+            "-to": "VITSSEN",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "KINX",
+            "-color": "10000",
+            "-len": "10,000*3M"
+          },
+          {
+            "-to": "BORANET",
+            "-color": "10000",
+            "-len": "10,000*8M"
+          },
+          {
+            "-to": "broadNnet",
+            "-color": "10000",
+            "-len": "10,000*12M"
+          },
+          {
+            "-to": "DREAMX",
+            "-color": "10000",
+            "-len": "10,000*4M"
+          }
+        ]
+      },
+      {
+        "-from": "DONGDAEMUNCABLEINTERNET",
+        "-han": "티브로드동대문방송",
+        "-as": "AS9971",
+        "lineto": [
+          {
+            "-to": "SEJONGNET",
+            "-color": "1000",
+            "-len": "1,000*2M"
+          },
+          {
+            "-to": "SK-NET",
+            "-color": "2000",
+            "-len": "2,000*2M"
+          }
+        ]
+      },
+      {
+        "-from": "HINETWORKS",
+        "-han": "하이라인닷넷",
+        "-as": "AS45398",
+        "lineto": {
+          "-to": "HCLC",
+          "-color": "10000",
+          "-len": "10,000*2M"
+        }
+      },
+      {
+        "-from": "LXN",
+        "-han": "엘엑스",
+        "-as": "AS46011",
+        "lineto": [
+          {
+            "-to": "HYOSUNGCDN",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "HCLC",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "SEJONGNET",
+            "-color": "100",
+            "-len": "100M"
+          }
+        ]
+      },
+      {
+        "-from": "CJ-HELLOVISION",
+        "-han": "씨제이헬로비전",
+        "-as": "AS9770",
+        "lineto": [
+          {
+            "-to": "KINX",
+            "-color": "10000",
+            "-len": "10,000M"
+          },
+          {
+            "-to": "SEJONGNET",
+            "-color": "10000",
+            "-len": "10,000M"
+          },
+          {
+            "-to": "broadNnet",
+            "-color": "10000",
+            "-len": "10,000M"
+          },
+          {
+            "-to": "DREAMX",
+            "-color": "10000",
+            "-len": "10,000M"
+          },
+          {
+            "-to": "BORANET",
+            "-color": "10000",
+            "-len": "10,000M"
+          }
+        ]
+      },
+      {
+        "-from": "GTP",
+        "-han": "경기테크노파크",
+        "-as": "AS17845",
+        "lineto": [
+          {
+            "-to": "KORNET",
+            "-color": "100",
+            "-len": "100M"
+          },
+          {
+            "-to": "broadNnet",
+            "-color": "200",
+            "-len": "200M"
+          }
+        ]
+      },
+      {
+        "-from": "KTFWING",
+        "-han": "KTFWING",
+        "-as": "AS9964",
+        "lineto": {
+          "-to": "KORNET",
+          "-color": "10000",
+          "-len": "10,000*28M"
+        }
+      },
+      {
+        "-from": "IP4NET",
+        "-han": "아이피포네트웍스",
+        "-as": "AS38086",
+        "lineto": [
+          {
+            "-to": "KOREAONLINE",
+            "-color": "10",
+            "-len": "10M"
+          },
+          {
+            "-to": "KINXINC",
+            "-color": "100",
+            "-len": "100M"
+          }
+        ]
+      },
+      {
+        "-from": "WIZCDN",
+        "-han": "클루넷",
+        "-as": "AS38676",
+        "lineto": [
+          {
+            "-to": "DIX",
+            "-color": "10000",
+            "-len": "10,000*5M"
+          },
+          {
+            "-to": "HIX",
+            "-color": "10000",
+            "-len": "10,000*7M"
+          },
+          {
+            "-to": "KINX",
+            "-color": "10000",
+            "-len": "10,000*4M"
+          },
+          {
+            "-to": "DREAMX",
+            "-color": "10000",
+            "-len": "10,000M"
+          },
+          {
+            "-to": "broadNnet",
+            "-color": "10000",
+            "-len": "10,000*7M"
+          },
+          {
+            "-to": "SEJONGNET",
+            "-color": "10000",
+            "-len": "10,000*5M"
+          }
+        ]
+      },
+      {
+        "-from": "GCS",
+        "-han": "CATV푸른방송",
+        "-as": "AS9781",
+        "lineto": [
+          {
+            "-to": "Xpeed",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "broadNnet",
+            "-color": "1000",
+            "-len": "1,000*2M"
+          },
+          {
+            "-to": "SEJONGNET",
+            "-color": "1000",
+            "-len": "1,000*3M"
+          },
+          {
+            "-to": "SK-TELECOM-NET",
+            "-color": "1000",
+            "-len": "1,000*3M"
+          }
+        ]
+      },
+      {
+        "-from": "NAMDONGNET",
+        "-han": "티브로드남동방송",
+        "-as": "AS23578",
+        "lineto": [
+          {
+            "-to": "TBROAD",
+            "-color": "10000",
+            "-len": "10,000*2M"
+          },
+          {
+            "-to": "SAEROMNET",
+            "-color": "10000",
+            "-len": "10,000M"
+          }
+        ]
+      },
+      {
+        "-from": "KCNNET",
+        "-han": "금강방송주식회사",
+        "-as": "AS17583",
+        "lineto": [
+          {
+            "-to": "DREAMX",
+            "-color": "1000",
+            "-len": "1,000*4M"
+          },
+          {
+            "-to": "SEJONGNET",
+            "-color": "1000",
+            "-len": "1,000*4M"
+          },
+          {
+            "-to": "broadNnet",
+            "-color": "1000",
+            "-len": "1,000*4M"
+          }
+        ]
+      },
+      {
+        "-from": "CMBI-NETDJ",
+        "-han": "씨엠비대전방송",
+        "-as": "AS38684",
+        "lineto": [
+          {
+            "-to": "SEJONGNET",
+            "-color": "1000",
+            "-len": "1,000*8M"
+          },
+          {
+            "-to": "SK-TELECOM-NET",
+            "-color": "1000",
+            "-len": "1,000*12M"
+          }
+        ]
+      },
+      {
+        "-from": "VITSSEN",
+        "-han": "티브로드ABC방송",
+        "-as": "AS18310",
+        "lineto": [
+          {
+            "-to": "KINX",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "broadNnet",
+            "-color": "1000",
+            "-len": "1,000*3M"
+          },
+          {
+            "-to": "TBROAD",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "DREAMX",
+            "-color": "2000",
+            "-len": "2,000M"
+          },
+          {
+            "-to": "BORANET",
+            "-color": "2000",
+            "-len": "2,000M"
+          },
+          {
+            "-to": "SKB-IX",
+            "-color": "2000",
+            "-len": "2,000M"
+          }
+        ]
+      },
+      {
+        "-from": "NIBDIGITAL",
+        "-han": "남인천방송",
+        "-as": "AS9976",
+        "lineto": [
+          {
+            "-to": "KINX",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "SEJONGNET",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "broadNnet",
+            "-color": "2000",
+            "-len": "2,000M"
+          },
+          {
+            "-to": "SKB-IX",
+            "-color": "2000",
+            "-len": "2,000M"
+          }
+        ]
+      },
+      {
+        "-from": "SAMSUNGSDS",
+        "-han": "삼성에스디에스",
+        "-as": "AS6619",
+        "lineto": [
+          {
+            "-to": "DIX",
+            "-color": "2000",
+            "-len": "2,000M"
+          },
+          {
+            "-to": "KINX",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "KTIX",
+            "-color": "2500",
+            "-len": "2,500*2M"
+          },
+          {
+            "-to": "GIN",
+            "-color": "45",
+            "-len": "45M"
+          },
+          {
+            "-to": "broadNnet",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "broadNnet",
+            "-color": "500",
+            "-len": "500M"
+          },
+          {
+            "-to": "DREAMX",
+            "-color": "155",
+            "-len": "155M"
+          },
+          {
+            "-to": "6NGIX",
+            "-color": "0",
+            "-len": "0M"
+          },
+          {
+            "-to": "SKB-IX",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "SKB-IX",
+            "-color": "500",
+            "-len": "500M"
+          }
+        ]
+      },
+      {
+        "-from": "IIAC",
+        "-han": "인천국제공항공사",
+        "-as": "AS23908",
+        "lineto": [
+          {
+            "-to": "BORANET",
+            "-color": "155",
+            "-len": "155M"
+          },
+          {
+            "-to": "KORNET",
+            "-color": "100",
+            "-len": "100M"
+          }
+        ]
+      },
+      {
+        "-from": "BITSRO",
+        "-han": "한가람정보통신",
+        "lineto": [
+          {
+            "-to": "Xpeed",
+            "-color": "1000",
+            "-len": "1,000*2M"
+          },
+          {
+            "-to": "DIX",
+            "-color": "1000",
+            "-len": "1,000*2M"
+          }
+        ]
+      },
+      {
+        "-from": "Netropy",
+        "-han": "네트로피",
+        "-as": "AS9963",
+        "lineto": [
+          {
+            "-to": "KITINET",
+            "-color": "100",
+            "-len": "100M"
+          },
+          {
+            "-to": "DIX",
+            "-color": "1000",
+            "-len": "1,000M"
+          }
+        ]
+      },
+      {
+        "-from": "PCBNET",
+        "-han": "CATV포항방송",
+        "-as": "AS38660",
+        "lineto": [
+          {
+            "-to": "DREAMX",
+            "-color": "1000",
+            "-len": "1,000*2M"
+          },
+          {
+            "-to": "SEJONGNET",
+            "-color": "1000",
+            "-len": "1,000*2M"
+          },
+          {
+            "-to": "BORANET",
+            "-color": "1000",
+            "-len": "1,000M"
+          }
+        ]
+      },
+      {
+        "-from": "CST21",
+        "-han": "씨에스테크놀로지",
+        "-as": "AS17596",
+        "lineto": [
+          {
+            "-to": "BORANET",
+            "-color": "100",
+            "-len": "100M"
+          },
+          {
+            "-to": "broadNnet",
+            "-color": "100",
+            "-len": "100M"
+          }
+        ]
+      },
+      {
+        "-from": "LG-NET",
+        "-han": "엘지씨엔에스",
+        "-as": "AS38431",
+        "lineto": [
+          {
+            "-to": "KINXINC",
+            "-color": "4000",
+            "-len": "4,000M"
+          },
+          {
+            "-to": "BORANET",
+            "-color": "4000",
+            "-len": "4,000*2M"
+          }
+        ]
+      },
+      {
+        "-from": "LGTELECOM",
+        "-han": "LGTELECOM",
+        "-as": "AS17853",
+        "lineto": {
+          "-to": "BORANET",
+          "-color": "4",
+          "-len": "4*2M"
+        }
+      },
+      {
+        "-from": "SK-TELECOM-NET",
+        "-han": "에스케이텔레콤",
+        "-as": "AS18302",
+        "lineto": [
+          {
+            "-to": "KINX",
+            "-color": "3000",
+            "-len": "3,000M"
+          },
+          {
+            "-to": "KORNET",
+            "-color": "5000",
+            "-len": "5,000M"
+          },
+          {
+            "-to": "ORG206527",
+            "-color": "155",
+            "-len": "155*2M"
+          },
+          {
+            "-to": "GIN",
+            "-color": "25",
+            "-len": "25M"
+          },
+          {
+            "-to": "ORG263102",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "broadNnet",
+            "-color": "10000",
+            "-len": "10,000M"
+          },
+          {
+            "-to": "BORANET",
+            "-color": "2000",
+            "-len": "2,000M"
+          },
+          {
+            "-to": "SKB-IX",
+            "-color": "10000",
+            "-len": "10,000M"
+          }
+        ]
+      },
+      {
+        "-from": "GIN",
+        "-han": "엔티티코리아",
+        "lineto": [
+          {
+            "-to": "SEJONGNET",
+            "-color": "310",
+            "-len": "310M"
+          },
+          {
+            "-to": "SK-TELECOM-NET",
+            "-color": "25",
+            "-len": "25M"
+          },
+          {
+            "-to": "ORG263102",
+            "-color": "300",
+            "-len": "300M"
+          }
+        ]
+      },
+      {
+        "-from": "VAAN",
+        "-han": "넥스지",
+        "-as": "AS17877",
+        "lineto": [
+          {
+            "-to": "KINX",
+            "-color": "200",
+            "-len": "200M"
+          },
+          {
+            "-to": "broadNnet",
+            "-color": "1200",
+            "-len": "1,200M"
+          },
+          {
+            "-to": "SKB-IX",
+            "-color": "1200",
+            "-len": "1,200M"
+          }
+        ]
+      },
+      {
+        "-from": "DREAMX",
+        "-han": "드림라인",
+        "-as": "AS9457",
+        "lineto": [
+          {
+            "-to": "DIX",
+            "-color": "5000",
+            "-len": "5,000M"
+          },
+          {
+            "-to": "KINX",
+            "-color": "11000",
+            "-len": "11,000M"
+          },
+          {
+            "-to": "KTIX",
+            "-color": "12500",
+            "-len": "12,500M"
+          },
+          {
+            "-to": "SEJONGNET",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "ORG130458",
+            "-color": "400",
+            "-len": "400M"
+          },
+          {
+            "-to": "KOREN",
+            "-color": "155",
+            "-len": "155M"
+          },
+          {
+            "-to": "VITSSEN",
+            "-color": "2000",
+            "-len": "2,000M"
+          },
+          {
+            "-to": "SAMSUNGSDS",
+            "-color": "155",
+            "-len": "155M"
+          },
+          {
+            "-to": "VAAN",
+            "-color": "100",
+            "-len": "100M"
+          },
+          {
+            "-to": "SCSNET",
+            "-color": "420",
+            "-len": "420M"
+          },
+          {
+            "-to": "KPIN",
+            "-color": "100",
+            "-len": "100M"
+          },
+          {
+            "-to": "broadNnet",
+            "-color": "10000",
+            "-len": "10,000M"
+          },
+          {
+            "-to": "TBROAD",
+            "-color": "3000",
+            "-len": "3,000M"
+          },
+          {
+            "-to": "GINAMHANVITNET",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "QRIXNET",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "SKB-IX",
+            "-color": "10000",
+            "-len": "10,000M"
+          }
+        ]
+      },
+      {
+        "-from": "eGIOSNET",
+        "-han": "이지오스",
+        "-as": "AS9646",
+        "lineto": {
+          "-to": "SEJONGNET",
+          "-color": "100",
+          "-len": "100M"
+        }
+      },
+      {
+        "-from": "JNDINFO",
+        "-han": "제이엔디통신",
+        "-as": "AS38662",
+        "lineto": [
+          {
+            "-to": "BORANET",
+            "-color": "5",
+            "-len": "5M"
+          },
+          {
+            "-to": "KORNET",
+            "-color": "5",
+            "-len": "5M"
+          }
+        ]
+      },
+      {
+        "-from": "SCNINTERNET",
+        "-han": "서청주케이블티브이",
+        "lineto": [
+          {
+            "-to": "DREAMX",
+            "-color": "45",
+            "-len": "45M"
+          },
+          {
+            "-to": "SHINBIRO",
+            "-color": "45",
+            "-len": "45M"
+          }
+        ]
+      },
+      {
+        "-from": "NARA-CABLE-TV",
+        "-han": "한국CATV나라방송",
+        "-as": "AS17586",
+        "lineto": [
+          {
+            "-to": "DREAMX",
+            "-color": "1000",
+            "-len": "1,000*2M"
+          },
+          {
+            "-to": "BORANET",
+            "-color": "2500",
+            "-len": "2,500*2M"
+          }
+        ]
+      },
+      {
+        "-from": "TBROAD-HANVIT",
+        "-han": "티브로드한빛방송",
+        "-as": "AS17864",
+        "lineto": [
+          {
+            "-to": "VITSSEN",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "TBROAD",
+            "-color": "1000",
+            "-len": "1,000*40M"
+          }
+        ]
+      },
+      {
+        "-from": "GSD",
+        "-han": "티브로드강서방송",
+        "-as": "AS10164",
+        "lineto": {
+          "-to": "TBROAD",
+          "-color": "10000",
+          "-len": "10,000*2M"
+        }
+      },
+      {
+        "-from": "JCN",
+        "-han": "JCN울산중앙방송",
+        "-as": "AS45361",
+        "lineto": [
+          {
+            "-to": "DREAMX",
+            "-color": "100",
+            "-len": "100M"
+          },
+          {
+            "-to": "SEJONGNET",
+            "-color": "300",
+            "-len": "300M"
+          },
+          {
+            "-to": "SKB-IX",
+            "-color": "300",
+            "-len": "300M"
+          }
+        ]
+      },
+      {
+        "-from": "LDCC-SAFEGUARD",
+        "-han": "롯데정보통신",
+        "-as": "AS9842",
+        "lineto": [
+          {
+            "-to": "SKB-IX",
+            "-color": "1500",
+            "-len": "1,500M"
+          },
+          {
+            "-to": "DIX",
+            "-color": "1500",
+            "-len": "1,500M"
+          },
+          {
+            "-to": "DREAMX",
+            "-color": "45",
+            "-len": "45M"
+          },
+          {
+            "-to": "KORNET",
+            "-color": "100",
+            "-len": "100M"
+          },
+          {
+            "-to": "KTIX",
+            "-color": "2000",
+            "-len": "2,000M"
+          },
+          {
+            "-to": "BORANET",
+            "-color": "100",
+            "-len": "100M"
+          }
+        ]
+      },
+      {
+        "-from": "KCTVNET",
+        "-han": "한국케이블TV광주방송",
+        "-as": "AS38673",
+        "lineto": [
+          {
+            "-to": "SEJONGNET",
+            "-color": "1000",
+            "-len": "1,000*4M"
+          },
+          {
+            "-to": "broadNnet",
+            "-color": "1000",
+            "-len": "1,000*2M"
+          }
+        ]
+      },
+      {
+        "-from": "CNM",
+        "-han": "씨앤앰",
+        "-as": "AS10036",
+        "lineto": [
+          {
+            "-to": "DIX",
+            "-color": "10000",
+            "-len": "10,000*3M"
+          },
+          {
+            "-to": "KINX",
+            "-color": "10000",
+            "-len": "10,000M"
+          },
+          {
+            "-to": "DREAMX",
+            "-color": "10000",
+            "-len": "10,000M"
+          }
+        ]
+      },
+      {
+        "-from": "SKTelink",
+        "-han": "에스케이텔링크",
+        "-as": "AS10171",
+        "lineto": [
+          {
+            "-to": "DIX",
+            "-color": "45",
+            "-len": "45*2M"
+          },
+          {
+            "-to": "KTIX",
+            "-color": "45",
+            "-len": "45M"
+          },
+          {
+            "-to": "broadNnet",
+            "-color": "45",
+            "-len": "45M"
+          },
+          {
+            "-to": "SKB-IX",
+            "-color": "45",
+            "-len": "45M"
+          }
+        ]
+      },
+      {
+        "-from": "HIPASS",
+        "-han": "대전텔레콤",
+        "-as": "AS10186",
+        "lineto": [
+          {
+            "-to": "DREAMX",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "BORANET",
+            "-color": "1000",
+            "-len": "1,000M"
+          }
+        ]
+      },
+      {
+        "-from": "SHINBIRO",
+        "-han": "온세텔레콤",
+        "-as": "AS38702",
+        "lineto": [
+          {
+            "-to": "DIX",
+            "-color": "13000",
+            "-len": "13,000M"
+          },
+          {
+            "-to": "KINX",
+            "-color": "5000",
+            "-len": "5,000M"
+          },
+          {
+            "-to": "SEJONGNET",
+            "-color": "930",
+            "-len": "930M"
+          },
+          {
+            "-to": "Netropy",
+            "-color": "5",
+            "-len": "5M"
+          },
+          {
+            "-to": "KOREN",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "KORNET",
+            "-color": "3500",
+            "-len": "3,500M"
+          },
+          {
+            "-to": "broadNnet",
+            "-color": "5000",
+            "-len": "5,000M"
+          },
+          {
+            "-to": "SKB-IX",
+            "-color": "5000",
+            "-len": "5,000M"
+          }
+        ]
+      },
+      {
+        "-from": "GINAMHANVITNET",
+        "-han": "티브로드기남방송",
+        "-as": "AS17849",
+        "lineto": [
+          {
+            "-to": "DIX",
+            "-color": "1000",
+            "-len": "1,000*3M"
+          },
+          {
+            "-to": "broadNnet",
+            "-color": "1000",
+            "-len": "1,000*4M"
+          },
+          {
+            "-to": "DREAMX",
+            "-color": "1000",
+            "-len": "1,000*2M"
+          },
+          {
+            "-to": "DREAMX",
+            "-color": "2000",
+            "-len": "2,000M"
+          }
+        ]
+      },
+      {
+        "-from": "DOTNAME",
+        "-han": "닷네임코리아",
+        "-as": "AS18328",
+        "lineto": [
+          {
+            "-to": "BORANET",
+            "-color": "10",
+            "-len": "10M"
+          },
+          {
+            "-to": "DREAMX",
+            "-color": "1000",
+            "-len": "1,000M"
+          }
+        ]
+      },
+      {
+        "-from": "KOREAONLINE",
+        "-han": "누리링크시스템",
+        "-as": "AS38425",
+        "lineto": [
+          {
+            "-to": "DREAMX",
+            "-color": "10",
+            "-len": "10M"
+          },
+          {
+            "-to": "KINXINC",
+            "-color": "200",
+            "-len": "200M"
+          }
+        ]
+      },
+      {
+        "-from": "CDNETWORKS",
+        "-han": "씨디네트웍스",
+        "-as": "AS38670",
+        "lineto": [
+          {
+            "-to": "broadNnet",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "KINXINC",
+            "-color": "10000",
+            "-len": "10,000M"
+          }
+        ]
+      },
+      {
+        "-from": "GANGWONNET",
+        "-han": "강원방송",
+        "-as": "AS38120",
+        "lineto": {
+          "-to": "ORG263102",
+          "-color": "1000",
+          "-len": "1,000M"
+        }
+      },
+      {
+        "-from": "TELEHOUSE SEOUL",
+        "-han": "케이디디아이코리아",
+        "-as": "AS10160",
+        "lineto": [
+          {
+            "-to": "DIX",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "KINX",
+            "-color": "10000",
+            "-len": "10,000M"
+          },
+          {
+            "-to": "SKB-IX",
+            "-color": "1000",
+            "-len": "1,000*4M"
+          },
+          {
+            "-to": "KTIX",
+            "-color": "1000",
+            "-len": "1,000*2M"
+          }
+        ]
+      },
+      {
+        "-from": "CYBERONEIDC",
+        "-han": "싸이버원",
+        "-as": "AS9758",
+        "lineto": [
+          {
+            "-to": "6NGIX",
+            "-color": "100",
+            "-len": "100M"
+          },
+          {
+            "-to": "HCLC",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "broadNnet",
+            "-color": "1000",
+            "-len": "1,000M"
+          }
+        ]
+      },
+      {
+        "-from": "KREONet",
+        "-han": "한국과학기술정보연구원",
+        "-as": "AS1237",
+        "lineto": [
+          {
+            "-to": "6NGIX",
+            "-color": "100",
+            "-len": "100M"
+          },
+          {
+            "-to": "DIX",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "KTIX",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "SEJONGNET",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "KOREN",
+            "-color": "45",
+            "-len": "45M"
+          },
+          {
+            "-to": "KOREN",
+            "-color": "1000",
+            "-len": "1,000*2M"
+          }
+        ]
+      },
+      {
+        "-from": "KINXINC",
+        "-han": "케이아이엔엑스",
+        "-as": "AS9957",
+        "lineto": [
+          {
+            "-to": "KINX",
+            "-color": "100",
+            "-len": "100M"
+          },
+          {
+            "-to": "DREAMX",
+            "-color": "1000",
+            "-len": "1,000M"
+          }
+        ]
+      },
+      {
+        "-from": "TBROADNAKDONG",
+        "-han": "티브로드낙동방송",
+        "-as": "AS17857",
+        "lineto": [
+          {
+            "-to": "SEJONGNET",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "TBROAD",
+            "-color": "10000",
+            "-len": "10,000*2M"
+          },
+          {
+            "-to": "digitalbusanet",
+            "-color": "1000",
+            "-len": "1,000*2M"
+          },
+          {
+            "-to": "ORG820154",
+            "-color": "1000",
+            "-len": "1,000*2M"
+          },
+          {
+            "-to": "broadNnet",
+            "-color": "1000",
+            "-len": "1,000M"
+          }
+        ]
+      },
+      {
+        "-from": "CMBI-NETHK",
+        "-han": "씨엠비한강케이블티비",
+        "-as": "AS38680",
+        "lineto": [
+          {
+            "-to": "broadNnet",
+            "-color": "1000",
+            "-len": "1,000*3M"
+          },
+          {
+            "-to": "SEJONGNET",
+            "-color": "1000",
+            "-len": "1,000*4M"
+          }
+        ]
+      },
+      {
+        "-from": "CABLENET",
+        "-han": "CATV제주방송",
+        "-as": "AS9946",
+        "lineto": [
+          {
+            "-to": "DREAMX",
+            "-color": "300",
+            "-len": "300M"
+          },
+          {
+            "-to": "BORANET",
+            "-color": "700",
+            "-len": "700M"
+          },
+          {
+            "-to": "BORANET",
+            "-color": "1000",
+            "-len": "1,000*2M"
+          }
+        ]
+      },
+      {
+        "-from": "HCN",
+        "-han": "에이치씨엔",
+        "-as": "AS9762",
+        "lineto": [
+          {
+            "-to": "DIX",
+            "-color": "1000",
+            "-len": "1,000*5M"
+          },
+          {
+            "-to": "KINX",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "SHINBIRO",
+            "-color": "1000",
+            "-len": "1,000M"
+          }
+        ]
+      },
+      {
+        "-from": "NOWCOM",
+        "-han": "나우콤",
+        "-as": "AS4669",
+        "lineto": {
+          "-to": "BORANET",
+          "-color": "4000",
+          "-len": "4,000*4M"
+        }
+      },
+      {
+        "-from": "TTNet",
+        "-han": "오늘과내일",
+        "-as": "AS9755",
+        "lineto": [
+          {
+            "-to": "KINX",
+            "-color": "45",
+            "-len": "45M"
+          },
+          {
+            "-to": "broadNnet",
+            "-color": "2000",
+            "-len": "2,000M"
+          },
+          {
+            "-to": "broadNnet",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "SKB-IX",
+            "-color": "2000",
+            "-len": "2,000M"
+          },
+          {
+            "-to": "SKB-IX",
+            "-color": "1000",
+            "-len": "1,000M"
+          }
+        ]
+      },
+      {
+        "-from": "IZONE",
+        "-han": "부천종합네트워크",
+        "lineto": {
+          "-to": "ORG263102",
+          "-color": "50",
+          "-len": "50M"
+        }
+      },
+      {
+        "-from": "SAEROMNET",
+        "-han": "티브로드새롬방송",
+        "-as": "AS17597",
+        "lineto": [
+          {
+            "-to": "TBROAD",
+            "-color": "10000",
+            "-len": "10,000*2M"
+          },
+          {
+            "-to": "NAMDONGNET",
+            "-color": "10000",
+            "-len": "10,000M"
+          }
+        ]
+      },
+      {
+        "-from": "ELIMNET",
+        "-han": "엘림넷",
+        "-as": "AS4663",
+        "lineto": [
+          {
+            "-to": "HIX",
+            "-color": "3000",
+            "-len": "3,000*2M"
+          },
+          {
+            "-to": "DIX",
+            "-color": "1000",
+            "-len": "1,000M"
+          }
+        ]
+      },
+      {
+        "-from": "EDUNET",
+        "-han": "한국교육학술정보원",
+        "-as": "AS9455",
+        "lineto": [
+          {
+            "-to": "SK-TELECOM-NET",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "SK-TELECOM-NET",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "broadNnet",
+            "-color": "1000",
+            "-len": "1,000M"
+          }
+        ]
+      },
+      {
+        "-from": "SSEN",
+        "-han": "신세계 아이앤씨",
+        "-as": "AS45965",
+        "lineto": [
+          {
+            "-to": "broadNnet",
+            "-color": "10000",
+            "-len": "10,000*2M"
+          },
+          {
+            "-to": "HCLC",
+            "-color": "10000",
+            "-len": "10,000*2M"
+          }
+        ]
+      },
+      {
+        "-from": "KDTIDC",
+        "-han": "한국데이터통신",
+        "-as": "AS55592",
+        "lineto": [
+          {
+            "-to": "KORNET",
+            "-color": "10000",
+            "-len": "10,000*2M"
+          },
+          {
+            "-to": "DIX",
+            "-color": "10000",
+            "-len": "10,000*2M"
+          },
+          {
+            "-to": "SKB-IX",
+            "-color": "10000",
+            "-len": "10,000*2M"
+          },
+          {
+            "-to": "SKB-IX",
+            "-color": "1000",
+            "-len": "1,000M"
+          }
+        ]
+      },
+      {
+        "-from": "SCSNET",
+        "-han": "서경방송",
+        "-as": "AS9694",
+        "lineto": [
+          {
+            "-to": "SKB-IX",
+            "-color": "3000",
+            "-len": "3,000*2M"
+          },
+          {
+            "-to": "DIX",
+            "-color": "8000",
+            "-len": "8,000*2M"
+          }
+        ]
+      },
+      {
+        "-from": "ESONET",
+        "-han": "이소컴",
+        "-as": "AS10057",
+        "lineto": [
+          {
+            "-to": "KINX",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "KTIX",
+            "-color": "100",
+            "-len": "100*2M"
+          }
+        ]
+      },
+      {
+        "-from": "JEONJU-HANVITNET",
+        "-han": "티브로드 전주방송",
+        "-as": "AS17854",
+        "lineto": [
+          {
+            "-to": "SEJONGNET",
+            "-color": "1000",
+            "-len": "1,000*2M"
+          },
+          {
+            "-to": "TBROAD",
+            "-color": "10000",
+            "-len": "10,000*2M"
+          }
+        ]
+      },
+      {
+        "-from": "digitalbusanet",
+        "-han": "티브로드동남방송",
+        "-as": "AS17871",
+        "lineto": [
+          {
+            "-to": "SEJONGNET",
+            "-color": "3000",
+            "-len": "3,000*2M"
+          },
+          {
+            "-to": "broadNnet",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "TBROADNAKDONG",
+            "-color": "1000",
+            "-len": "1,000*2M"
+          }
+        ]
+      },
+      {
+        "-from": "SAERONET",
+        "-han": "HCN새로넷방송",
+        "-as": "AS9981",
+        "lineto": [
+          {
+            "-to": "DREAMX",
+            "-color": "2000",
+            "-len": "2,000*2M"
+          },
+          {
+            "-to": "SEJONGNET",
+            "-color": "2000",
+            "-len": "2,000*2M"
+          },
+          {
+            "-to": "ORG263102",
+            "-color": "2000",
+            "-len": "2,000*2M"
+          },
+          {
+            "-to": "BORANET",
+            "-color": "2000",
+            "-len": "2,000*2M"
+          }
+        ]
+      },
+      {
+        "-from": "TCNINTERNET",
+        "-han": "티씨엔대구방송",
+        "-as": "AS38109",
+        "lineto": [
+          {
+            "-to": "SEJONGNET",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "broadNnet",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "broadNnet",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "SEJONGNET",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "LGTELECOM",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "SEJONGNET",
+            "-color": "1000",
+            "-len": "1,000M"
+          }
+        ]
+      },
+      {
+        "-from": "DITIZONE",
+        "-han": "아름방송네트워크",
+        "-as": "AS17608",
+        "lineto": [
+          {
+            "-to": "BORANET",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "DREAMX",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "SEJONGNET",
+            "-color": "20",
+            "-len": "20M"
+          },
+          {
+            "-to": "KINX",
+            "-color": "1000",
+            "-len": "1,000M"
+          }
+        ]
+      },
+      {
+        "-from": "CMBPLUSONE",
+        "-han": "씨엠비동서방송",
+        "-as": "AS9757",
+        "lineto": [
+          {
+            "-to": "ORG263102",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "SK-TELECOM-NET",
+            "-color": "1000",
+            "-len": "1,000*8M"
+          },
+          {
+            "-to": "SEJONGNET",
+            "-color": "1000",
+            "-len": "1,000*8M"
+          }
+        ]
+      },
+      {
+        "-from": "KTNET",
+        "-han": "한국무역정보통신",
+        "-as": "AS7557",
+        "lineto": [
+          {
+            "-to": "KINX",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "KTIX",
+            "-color": "500",
+            "-len": "500M"
+          },
+          {
+            "-to": "DIX",
+            "-color": "500",
+            "-len": "500M"
+          }
+        ]
+      },
+      {
+        "-from": "QRIXNET",
+        "-han": "큐릭스네트웍스",
+        "lineto": [
+          {
+            "-to": "DIX",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "KINX",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "KTIX",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "broadNnet",
+            "-color": "3000",
+            "-len": "3,000M"
+          },
+          {
+            "-to": "DREAMX",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "broadNnet",
+            "-color": "10000",
+            "-len": "10,000*2M"
+          },
+          {
+            "-to": "SKB-IX",
+            "-color": "3000",
+            "-len": "3,000M"
+          }
+        ]
+      },
+      {
+        "-from": "NHN-NET",
+        "-han": "엔에이치엔비즈니스플랫폼",
+        "-as": "AS23576",
+        "lineto": [
+          {
+            "-to": "SKB-IX",
+            "-color": "10000",
+            "-len": "10,000*8M"
+          },
+          {
+            "-to": "DIX",
+            "-color": "10000",
+            "-len": "10,000*8M"
+          },
+          {
+            "-to": "KINX",
+            "-color": "10000",
+            "-len": "10,000*2M"
+          }
+        ]
+      },
+      {
+        "-from": "KINX",
+        "-han": "케이아이엔엑스",
+        "lineto": [
+          {
+            "-to": "CNM",
+            "-color": "10000",
+            "-len": "10,000M"
+          },
+          {
+            "-to": "SK-TELECOM-NET",
+            "-color": "3000",
+            "-len": "3,000M"
+          },
+          {
+            "-to": "ORG130458",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "ORG137748",
+            "-color": "100",
+            "-len": "100M"
+          },
+          {
+            "-to": "ORG230332",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "SHINBIRO",
+            "-color": "5000",
+            "-len": "5,000M"
+          },
+          {
+            "-to": "ESONET",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "ORG263102",
+            "-color": "10000",
+            "-len": "10,000M"
+          },
+          {
+            "-to": "VITSSEN",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "NIBDIGITAL",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "SAMSUNGSDS",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "VAAN",
+            "-color": "200",
+            "-len": "200M"
+          },
+          {
+            "-to": "KINXINC",
+            "-color": "100",
+            "-len": "100M"
+          },
+          {
+            "-to": "DREAMX",
+            "-color": "11000",
+            "-len": "11,000M"
+          },
+          {
+            "-to": "CJ-HELLOVISION",
+            "-color": "10000",
+            "-len": "10,000M"
+          },
+          {
+            "-to": "KTNET",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "ORG83462",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "QRIXNET",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "HCN",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "TTNet",
+            "-color": "45",
+            "-len": "45M"
+          },
+          {
+            "-to": "SEJONGNET",
+            "-color": "1000",
+            "-len": "1,000*4M"
+          },
+          {
+            "-to": "WIZCDN",
+            "-color": "10000",
+            "-len": "10,000*4M"
+          },
+          {
+            "-to": "TELEHOUSE SEOUL",
+            "-color": "10000",
+            "-len": "10,000M"
+          },
+          {
+            "-to": "HYOSUNGCDN",
+            "-color": "10000",
+            "-len": "10,000M"
+          },
+          {
+            "-to": "KOINS",
+            "-color": "2000",
+            "-len": "2,000M"
+          },
+          {
+            "-to": "NHN-NET",
+            "-color": "10000",
+            "-len": "10,000*2M"
+          },
+          {
+            "-to": "DITIZONE",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "TBROAD",
+            "-color": "10000",
+            "-len": "10,000*3M"
+          }
+        ]
+      },
+      {
+        "-from": "KTIX",
+        "-han": "KTIX",
+        "lineto": [
+          {
+            "-to": "SKTelink",
+            "-color": "45",
+            "-len": "45M"
+          },
+          {
+            "-to": "SK-NET",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "ESONET",
+            "-color": "100",
+            "-len": "100*2M"
+          },
+          {
+            "-to": "PUBNET",
+            "-color": "2000",
+            "-len": "2,000*6M"
+          },
+          {
+            "-to": "ORG263102",
+            "-color": "10000",
+            "-len": "10,000*3M"
+          },
+          {
+            "-to": "SAMSUNGSDS",
+            "-color": "2500",
+            "-len": "2,500*2M"
+          },
+          {
+            "-to": "broadNnet",
+            "-color": "102500",
+            "-len": "102,500M"
+          },
+          {
+            "-to": "DREAMX",
+            "-color": "12500",
+            "-len": "12,500M"
+          },
+          {
+            "-to": "KREONet",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "QRIXNET",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "KTNET",
+            "-color": "500",
+            "-len": "500M"
+          },
+          {
+            "-to": "SEJONGNET",
+            "-color": "10000",
+            "-len": "10,000*8M"
+          },
+          {
+            "-to": "KITINET",
+            "-color": "1000",
+            "-len": "1,000*2M"
+          },
+          {
+            "-to": "HCLC",
+            "-color": "20000",
+            "-len": "20,000M"
+          },
+          {
+            "-to": "KOINS",
+            "-color": "2000",
+            "-len": "2,000*2M"
+          },
+          {
+            "-to": "TELEHOUSE SEOUL",
+            "-color": "1000",
+            "-len": "1,000*2M"
+          },
+          {
+            "-to": "LDCC-SAFEGUARD",
+            "-color": "2000",
+            "-len": "2,000M"
+          }
+        ]
+      },
+      {
+        "-from": "SKB-IX",
+        "-han": "SKB-IX",
+        "lineto": [
+          {
+            "-to": "SK-TELECOM-NET",
+            "-color": "10000",
+            "-len": "10,000M"
+          },
+          {
+            "-to": "KOREN",
+            "-color": "4000",
+            "-len": "4,000M"
+          },
+          {
+            "-to": "SKTelink",
+            "-color": "45",
+            "-len": "45M"
+          },
+          {
+            "-to": "SK-NET",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "ORG230332",
+            "-color": "2000",
+            "-len": "2,000M"
+          },
+          {
+            "-to": "SHINBIRO",
+            "-color": "5000",
+            "-len": "5,000M"
+          },
+          {
+            "-to": "OK-NET",
+            "-color": "155",
+            "-len": "155M"
+          },
+          {
+            "-to": "ORG263102",
+            "-color": "20000",
+            "-len": "20,000M"
+          },
+          {
+            "-to": "VITSSEN",
+            "-color": "2000",
+            "-len": "2,000M"
+          },
+          {
+            "-to": "ORG275607",
+            "-color": "1024",
+            "-len": "1,024M"
+          },
+          {
+            "-to": "NIBDIGITAL",
+            "-color": "2000",
+            "-len": "2,000M"
+          },
+          {
+            "-to": "SAMSUNGSDS",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "SAMSUNGSDS",
+            "-color": "500",
+            "-len": "500M"
+          },
+          {
+            "-to": "VAAN",
+            "-color": "1200",
+            "-len": "1,200M"
+          },
+          {
+            "-to": "DREAMX",
+            "-color": "10000",
+            "-len": "10,000M"
+          },
+          {
+            "-to": "QRIXNET",
+            "-color": "3000",
+            "-len": "3,000M"
+          },
+          {
+            "-to": "ORG84951",
+            "-color": "2000",
+            "-len": "2,000M"
+          },
+          {
+            "-to": "TTNet",
+            "-color": "2000",
+            "-len": "2,000M"
+          },
+          {
+            "-to": "TTNet",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "RayNet",
+            "-color": "200",
+            "-len": "200M"
+          },
+          {
+            "-to": "CMBDONGBU",
+            "-color": "1000",
+            "-len": "1,000*2M"
+          },
+          {
+            "-to": "HCLC",
+            "-color": "10000",
+            "-len": "10,000*5M"
+          },
+          {
+            "-to": "HYOSUNGCDN",
+            "-color": "10000",
+            "-len": "10,000M"
+          },
+          {
+            "-to": "LDCC-SAFEGUARD",
+            "-color": "1500",
+            "-len": "1,500M"
+          },
+          {
+            "-to": "ORG779453",
+            "-color": "10000",
+            "-len": "10,000*2M"
+          },
+          {
+            "-to": "SCSNET",
+            "-color": "3000",
+            "-len": "3,000*2M"
+          },
+          {
+            "-to": "KDTIDC",
+            "-color": "10000",
+            "-len": "10,000*2M"
+          },
+          {
+            "-to": "KDTIDC",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "KOINS",
+            "-color": "2000",
+            "-len": "2,000M"
+          },
+          {
+            "-to": "NHN-NET",
+            "-color": "10000",
+            "-len": "10,000*8M"
+          },
+          {
+            "-to": "KORNET",
+            "-color": "10000",
+            "-len": "10,000*74M"
+          },
+          {
+            "-to": "TELEHOUSE SEOUL",
+            "-color": "1000",
+            "-len": "1,000*4M"
+          },
+          {
+            "-to": "JCN",
+            "-color": "300",
+            "-len": "300M"
+          }
+        ]
+      },
+      {
+        "-from": "6NGIX",
+        "-han": "6NGIX",
+        "lineto": [
+          {
+            "-to": "KREONet",
+            "-color": "100",
+            "-len": "100M"
+          },
+          {
+            "-to": "ORG282051",
+            "-color": "터널링",
+            "-len": "0M"
+          },
+          {
+            "-to": "BORANET",
+            "-color": "터널링",
+            "-len": "0M"
+          },
+          {
+            "-to": "ORG263102",
+            "-color": "터널링",
+            "-len": "0M"
+          },
+          {
+            "-to": "SAMSUNGSDS",
+            "-color": "0",
+            "-len": "0M"
+          },
+          {
+            "-to": "CYBERONEIDC",
+            "-color": "100",
+            "-len": "100M"
+          },
+          {
+            "-to": "KORNET",
+            "-color": "10000",
+            "-len": "10,000*4M"
+          }
+        ]
+      },
+      {
+        "-from": "DIX",
+        "-han": "DIX",
+        "lineto": [
+          {
+            "-to": "CNM",
+            "-color": "10000",
+            "-len": "10,000*3M"
+          },
+          {
+            "-to": "ORG105285",
+            "-color": "45",
+            "-len": "45M"
+          },
+          {
+            "-to": "KIDC",
+            "-color": "150000",
+            "-len": "150,000M"
+          },
+          {
+            "-to": "KIDC",
+            "-color": "25000",
+            "-len": "25,000M"
+          },
+          {
+            "-to": "SKTelink",
+            "-color": "45",
+            "-len": "45*2M"
+          },
+          {
+            "-to": "ORG230332",
+            "-color": "2000",
+            "-len": "2,000M"
+          },
+          {
+            "-to": "SHINBIRO",
+            "-color": "13000",
+            "-len": "13,000M"
+          },
+          {
+            "-to": "PUBNET",
+            "-color": "2000",
+            "-len": "2,000*4M"
+          },
+          {
+            "-to": "SAMSUNGSDS",
+            "-color": "2000",
+            "-len": "2,000M"
+          },
+          {
+            "-to": "broadNnet",
+            "-color": "35000",
+            "-len": "35,000M"
+          },
+          {
+            "-to": "GINAMHANVITNET",
+            "-color": "1000",
+            "-len": "1,000*3M"
+          },
+          {
+            "-to": "DREAMX",
+            "-color": "5000",
+            "-len": "5,000M"
+          },
+          {
+            "-to": "KREONet",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "ORG796835",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "ORG83462",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "QRIXNET",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "HCN",
+            "-color": "1000",
+            "-len": "1,000*5M"
+          },
+          {
+            "-to": "SK-NET",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "UPASS",
+            "-color": "155",
+            "-len": "155M"
+          },
+          {
+            "-to": "WIZCDN",
+            "-color": "10000",
+            "-len": "10,000*5M"
+          },
+          {
+            "-to": "TELEHOUSE SEOUL",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "KTNET",
+            "-color": "500",
+            "-len": "500M"
+          },
+          {
+            "-to": "BITSRO",
+            "-color": "1000",
+            "-len": "1,000*2M"
+          },
+          {
+            "-to": "ELIMNET",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "HCLC",
+            "-color": "20000",
+            "-len": "20,000*6M"
+          },
+          {
+            "-to": "LDCC-SAFEGUARD",
+            "-color": "1500",
+            "-len": "1,500M"
+          },
+          {
+            "-to": "DIRECT-HOSTING",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "SK-NET",
+            "-color": "155",
+            "-len": "155M"
+          },
+          {
+            "-to": "ORG779453",
+            "-color": "10000",
+            "-len": "10,000*2M"
+          },
+          {
+            "-to": "KDTIDC",
+            "-color": "10000",
+            "-len": "10,000*2M"
+          },
+          {
+            "-to": "KOINS",
+            "-color": "2000",
+            "-len": "2,000*2M"
+          },
+          {
+            "-to": "SCSNET",
+            "-color": "8000",
+            "-len": "8,000*2M"
+          },
+          {
+            "-to": "NHN-NET",
+            "-color": "10000",
+            "-len": "10,000*8M"
+          },
+          {
+            "-to": "KORNET",
+            "-color": "10000",
+            "-len": "10,000*74M"
+          },
+          {
+            "-to": "Netropy",
+            "-color": "1000",
+            "-len": "1,000M"
+          }
+        ]
+      },
+      {
+        "-from": "KORNET",
+        "-han": "케이티",
+        "-as": "AS4766",
+        "-link": "KTIX",
+        "lineto": [
+          {
+            "-to": "SKB-IX",
+            "-color": "10000",
+            "-len": "10,000*74M"
+          },
+          {
+            "-to": "DIX",
+            "-color": "10000",
+            "-len": "10,000*74M"
+          },
+          {
+            "-to": "DREAMX",
+            "-color": "10000",
+            "-len": "10,000*2M"
+          },
+          {
+            "-to": "SAMSUNGSDS",
+            "-color": "10000",
+            "-len": "10,000*2M"
+          },
+          {
+            "-to": "PUBNET",
+            "-color": "2500",
+            "-len": "2,500*8M"
+          },
+          {
+            "-to": "TELEHOUSE SEOUL",
+            "-color": "1000",
+            "-len": "1,000*2M"
+          },
+          {
+            "-to": "LDCC-SAFEGUARD",
+            "-color": "2000",
+            "-len": "2,000M"
+          },
+          {
+            "-to": "SK-NET",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "KITINET",
+            "-color": "1000",
+            "-len": "1,000*2M"
+          },
+          {
+            "-to": "KTNET",
+            "-color": "300",
+            "-len": "300M"
+          },
+          {
+            "-to": "CJ-HELLOVISION",
+            "-color": "10000",
+            "-len": "10,000*4M"
+          },
+          {
+            "-to": "SKTelink",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "SEJONGNET",
+            "-color": "10000",
+            "-len": "10,000*11M"
+          },
+          {
+            "-to": "KREONet",
+            "-color": "1000",
+            "-len": "1,000*4M"
+          },
+          {
+            "-to": "6NGIX",
+            "-color": "10000",
+            "-len": "10,000*4M"
+          }
+        ]
+      },
+      {
+        "-from": "broad&net",
+        "-han": "SK브로드밴드",
+        "-as": "AS9318",
+        "-link": "SKB-IX",
+        "lineto": [
+          {
+            "-to": "DIX",
+            "-color": "35000",
+            "-len": "35,000M"
+          },
+          {
+            "-to": "KTIX",
+            "-color": "102500",
+            "-len": "102,500M"
+          },
+          {
+            "-to": "SEJONGNET",
+            "-color": "6500",
+            "-len": "6,500M"
+          },
+          {
+            "-to": "SK-TELECOM-NET",
+            "-color": "10000",
+            "-len": "10,000M"
+          },
+          {
+            "-to": "KOREN",
+            "-color": "4000",
+            "-len": "4,000M"
+          },
+          {
+            "-to": "TELEHOUSE SEOUL",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "SKTelink",
+            "-color": "45",
+            "-len": "45M"
+          },
+          {
+            "-to": "NOWCOM",
+            "-color": "300",
+            "-len": "300M"
+          },
+          {
+            "-to": "SK-NET",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "ORG230332",
+            "-color": "2000",
+            "-len": "2,000M"
+          },
+          {
+            "-to": "SHINBIRO",
+            "-color": "5000",
+            "-len": "5,000M"
+          },
+          {
+            "-to": "OK-NET",
+            "-color": "155",
+            "-len": "155M"
+          },
+          {
+            "-to": "ORG263102",
+            "-color": "20000",
+            "-len": "20,000M"
+          },
+          {
+            "-to": "VITSSEN",
+            "-color": "2000",
+            "-len": "2,000M"
+          },
+          {
+            "-to": "ORG275607",
+            "-color": "1024",
+            "-len": "1,024M"
+          },
+          {
+            "-to": "NIBDIGITAL",
+            "-color": "2000",
+            "-len": "2,000M"
+          },
+          {
+            "-to": "SAMSUNGSDS",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "SAMSUNGSDS",
+            "-color": "500",
+            "-len": "500M"
+          },
+          {
+            "-to": "KOINS",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "VAAN",
+            "-color": "1200",
+            "-len": "1,200M"
+          },
+          {
+            "-to": "DREAMX",
+            "-color": "10000",
+            "-len": "10,000M"
+          },
+          {
+            "-to": "QRIXNET",
+            "-color": "3000",
+            "-len": "3,000M"
+          },
+          {
+            "-to": "ORG84951",
+            "-color": "2000",
+            "-len": "2,000M"
+          },
+          {
+            "-to": "EDUNET",
+            "-color": "155",
+            "-len": "155M"
+          },
+          {
+            "-to": "TTNet",
+            "-color": "2000",
+            "-len": "2,000M"
+          },
+          {
+            "-to": "TTNet",
+            "-color": "1000",
+            "-len": "1,000M"
+          }
+        ]
+      },
+      {
+        "-from": "BORANET",
+        "-han": "데이콤",
+        "-as": "AS3786",
+        "-link": "DIX",
+        "lineto": [
+          {
+            "-to": "6NGIX",
+            "-color": "터널링",
+            "-len": "0M"
+          },
+          {
+            "-to": "LGTELECOM",
+            "-color": "4",
+            "-len": "4*2M"
+          },
+          {
+            "-to": "SEJONGNET",
+            "-color": "5500",
+            "-len": "5,500M"
+          },
+          {
+            "-to": "SK-TELECOM-NET",
+            "-color": "2000",
+            "-len": "2,000M"
+          },
+          {
+            "-to": "RayNet",
+            "-color": "45",
+            "-len": "45M"
+          },
+          {
+            "-to": "ORG130458",
+            "-color": "600",
+            "-len": "600M"
+          },
+          {
+            "-to": "ORG230332",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "SHINBIRO",
+            "-color": "13000",
+            "-len": "13,000M"
+          },
+          {
+            "-to": "ORG263102",
+            "-color": "5000",
+            "-len": "5,000M"
+          },
+          {
+            "-to": "VITSSEN",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "ORG275607",
+            "-color": "1024",
+            "-len": "1,024M"
+          },
+          {
+            "-to": "KOINS",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "SCSNET",
+            "-color": "800",
+            "-len": "800M"
+          },
+          {
+            "-to": "broadNnet",
+            "-color": "35000",
+            "-len": "35,000M"
+          },
+          {
+            "-to": "TBROAD",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "GINAMHANVITNET",
+            "-color": "1000",
+            "-len": "1,000M"
+          },
+          {
+            "-to": "DREAMX",
+            "-color": "5000",
+            "-len": "5,000M"
+          },
+          {
+            "-to": "ORG84951",
+            "-color": "1000",
+            "-len": "1,000M"
+          }
+        ]
+      }
+    ]
+  }
+}
