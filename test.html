@@ -151,6 +151,8 @@ var svg = d3.select("body").append("svg")
 var path = d3.svg.chord()
     .radius(innerRadius);
 
+var test;
+
 svg.append("g").selectAll("path")
     .data(chord.groups)
   .enter().append("path")
@@ -183,7 +185,9 @@ var ticksText = ticks.append("text")
     .attr("dy", ".35em")
     .attr("transform", function(d) { return d.angle > Math.PI ? "rotate(180)translate(-16)" : null; })
     .style("text-anchor", function(d) { return d.angle > Math.PI ? "end" : null; })
-    .text(function(d, i) { return isps[d.index]; });
+    .text(function(d, i) { return isps[d.index]; })
+    .on("mouseover", function(g, i){ fade(.1)(g, g.index); })
+    .on("mouseout", function(g, i){ fade(1)(g, g.index); });
 
 svg.append("g")
     .attr("class", "chord")
@@ -197,7 +201,6 @@ svg.append("g")
 // Returns an array of tick angles and labels, given a group.
 function groupTicks(d, i) {
   var k = (d.endAngle - d.startAngle) / 2;
-  console.log(i);
   return [{
 	angle: k+d.startAngle,
 	index: i
